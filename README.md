@@ -1,6 +1,6 @@
 Machine Learning in Physics
 
-Author: Ammiel Peters (201900094)
+Author: Ammiel Peters
 
 Project Supervisor: Dr. Rakesh Moulick
 
