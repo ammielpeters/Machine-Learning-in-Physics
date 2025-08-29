@@ -1,13 +1,17 @@
 Machine Learning in Physics
+
 Author: Ammiel Peters (201900094)
+
 Project Supervisor: Dr. Rakesh Moulick
 
 A project report submitted in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology in Computer Science and Engineering (2023) from Sikkim Manipal Institute of Technology.
 
 Abstract
+
 This project discusses the applications of machine learning in the field of space and laboratory plasma. Solar data was collected to establish various relations, and Langmuir probe data was analyzed for laboratory plasma. The project explores the use of ML for image recognition, data classification, and predicting physical properties, while also discussing challenges like data requirements and overfitting.
 
 Project Structure
+
 This project is divided into three main analyses:
 
 Electron and Plasma Interaction (electron_plasma_interaction.py)
@@ -29,6 +33,7 @@ Goal: Analyze the I-V (current-voltage) characteristics from a Langmuir probe to
 Methods: A 7th-degree Polynomial Regression was used to find the best possible fit for the experimental data points.
 
 How to Run
+
 The analysis scripts are written in Python. You will need the following libraries to run them:
 
 pandas
@@ -46,4 +51,5 @@ pip install pandas scikit-learn numpy matplotlib
 Then, run each Python script individually to see the analysis and resulting plots. Note that the scripts may require specific data files (.csv, .txt) as described in the project report.
 
 Project Report
+
 The complete thesis can be found in the file Project Report(Thesis Paper).docx.
